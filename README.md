@@ -1,4 +1,4 @@
-[![MasterHead](https://hackernoon.com/images/f2px36fy.gif)]<h1 align="center">
+![MasterHead](https://hackernoon.com/images/f2px36fy.gif)<h1 align="center">
 <h1 align="center"> I'm Anusha Mahesh ✨</h1>
 <h3 align="center">An Undergraduate Student from India</h3>
 
